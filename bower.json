@@ -1,0 +1,25 @@
+{
+  "name": "comp392-lab3",
+  "authors": [
+    "Elaine Villarino <empvillare@yahoo.com>"
+  ],
+  "description": "COMP392-Lab3 for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/villare025/COMP392-Lab3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
